@@ -1,6 +1,6 @@
 🎓 Master degree in National University Of Singpaore & Bachelor degree in Monash University
 
-💻 Interested in business, setup, data analysis * data science 
+💻 Interested in business, start-up, data analysis, data science 
 
 🖋 Blog：
 
