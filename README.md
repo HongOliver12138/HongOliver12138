@@ -1,4 +1,4 @@
-🎓 Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
+🎓 Master degree in [National University of Singapore] & Bachelor degree in Monash University
 
 💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
 
