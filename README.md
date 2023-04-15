@@ -11,7 +11,23 @@
 
 💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)
 
+
+
+
+- ### Challenges
+    - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
+    - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
+
+
+
+
+
+
+
+
 #### 👷 Check out what I'm currently working on
+
+
 
 
 #### 🌱 Check out my recent projects
