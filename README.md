@@ -1,12 +1,12 @@
-🎓 Master degree in [National University of Singapore] & Bachelor degree in Monash University
+🎓 Master degree in National University Of Singpaore & Bachelor degree in Monash University
 
-💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
+💻 Interested in business, setup, data analysis * data science 
 
-🖋 Blog：[tanxinyu.work](https://tanxinyu.work)
+🖋 Blog：
 
-💡 Zhihu：[tan-xin-yu](https://www.zhihu.com/people/tan-xin-yu-22)
+💡 Zhihu：
 
-📫 Email: [tanxinyu@apache.org](mailto:tanxinyu@apache.org)
+📫 Email: [hzh5477@163.com](hzh5477@163.com)
 
 💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)
 
