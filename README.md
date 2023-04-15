@@ -4,7 +4,8 @@
 
 🖋 Blog：
 
-💡 Zhihu：
+💡 LinkedIn: [Hong Zhehua](www.linkedin.com/in/zhehua-hong)
+
 
 📫 Email: [hzh5477@163.com](hzh5477@163.com)
 
